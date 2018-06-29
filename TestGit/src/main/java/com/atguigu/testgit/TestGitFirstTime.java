@@ -5,5 +5,6 @@ public class TestGitFirstTime {
 		System.out.println("这是第一个测试类！");
 		System.out.println("这是第一个测试类！hahaha");
 		System.out.println("这是第一个测试类！hahaha");
+		System.out.println("这是第一个测试类！hahaha");
 	}
 }
